@@ -208,5 +208,11 @@
       "email": "ed.doyle@gmail.com",
       "id": 25
     }
-  ]
+  ],
+  "login": {
+    "email": "",
+    "password": "",
+    "googleProfileObj": "",
+    "googleAccessToken": ""
+  }
 }
